@@ -1,0 +1,39 @@
+.roomBookPage{
+    display: flex;
+    flex-direction: column;
+    padding: 15%;
+    min-height: 93vh;
+}
+.inputAddComment{
+    width: 100%;
+    
+}
+.commentDiv{
+    padding-top: 5%;
+    background-color: #f5f5f5;
+    min-height: 40vh;
+}
+.commitDiv{
+    margin: 0% 5%;
+}
+.cardAddDiv{
+    margin-top: 5%;
+}
+.headerAdd{
+    border-top: solid 3px;
+    border-radius: 0;
+    background-color: transparent;
+    font-size: 1.5rem;
+    font-weight: 500;
+    border-bottom: solid 3px;
+}
+.headerCommint{
+    background-color: #5BE6AC;
+
+}
+.addButton{
+    margin-top: 2%;
+}
+.roomTitle{
+    margin: 5%;
+}

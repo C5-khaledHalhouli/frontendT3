@@ -1,0 +1,15 @@
+.cardbook{
+    display: flex;
+    margin-bottom: 5%;
+    
+}
+.readingListPage{
+    display: flex;
+    flex-direction:column ;
+    padding: 5%;
+    min-height: 92vh;
+    
+}
+.imgReadingList{
+    width: 18rem;
+}
